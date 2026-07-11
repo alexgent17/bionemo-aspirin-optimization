@@ -1,0 +1,22 @@
+[
+  {
+    "sample": "CCN(C(=O)c1cccc(C(=O)O)c1F)c1ccccc1",
+    "score": 0.9391347615264908
+  },
+  {
+    "sample": "CS(=O)(=O)c1ccccc1C(=O)Nc1ccccc1",
+    "score": 0.9347906903616351
+  },
+  {
+    "sample": "CCN(C(=O)c1ccccc1C(=O)O)c1ccccc1",
+    "score": 0.9276415430863569
+  },
+  {
+    "sample": "O=C(O)c1ccccc1S(=O)(=O)Nc1ccccc1F",
+    "score": 0.9063898834183963
+  },
+  {
+    "sample": "O=C(O)c1ccccc1NC(=O)c1ccccc1OC(F)(F)F",
+    "score": 0.9014395299304891
+  }
+]
