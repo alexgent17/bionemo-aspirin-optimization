@@ -18,11 +18,13 @@
   {
     "sample": "O=C(O)c1ccccc1NC(=O)c1ccccc1OC(F)(F)F",
     "score": 0.9014395299304891
-},
-    "legal_and_licensing": {
+
+  
+  },
+      "legal_and_licensing": {
         "license": "MIT License",
         "copyright_holder": "Independent AI Safety & Drug Discovery Initiative",
         "disclaimer": "DISCLAIMER: This drug candidate was generated via artificial intelligence (NVIDIA MolMIM) and evaluated through in-silico computational tools (SwissADME). The compound described in this dataset has not been synthesized, tested in-vitro, or tested in-vivo. Any medical or pharmaceutical application of this data is at the user's sole risk. The copyright holder provides this data 'as is' without warranties of any kind, express or implied."
-    }
+  }       
   
 
